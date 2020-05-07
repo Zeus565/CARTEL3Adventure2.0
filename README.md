@@ -1,9 +1,2 @@
 # CARTEL
-
-
-The Cartel. Android App Dev.
-
-
-DOWNLOAD GIT FOR WINDOWS. 
-
- U NEED THIS FOR Contributing through android studio.
+Download the Cartel apk file and the download manager to use the platform.
